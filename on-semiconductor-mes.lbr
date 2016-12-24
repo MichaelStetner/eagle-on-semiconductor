@@ -62,8 +62,8 @@
 <smd name="P$1" x="-0.31" y="0.175" dx="0.43" dy="0.2" layer="1"/>
 <smd name="P$3" x="0.31" y="0" dx="0.55" dy="0.41" layer="1" rot="R90"/>
 <rectangle x1="-0.5" y1="-0.3" x2="0.5" y2="0.3" layer="51"/>
-<text x="-0.5842" y="0.381" size="0.3" layer="25">Name</text>
-<text x="-0.5842" y="-0.6604" size="0.3" layer="27">Value</text>
+<text x="-0.5842" y="0.381" size="0.3" layer="25">&gt;Name</text>
+<text x="-0.5842" y="-0.6604" size="0.3" layer="27">&gt;Value</text>
 </package>
 </packages>
 <symbols>
